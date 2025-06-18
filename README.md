@@ -33,4 +33,20 @@ Claude, guided by precise instructions via Agno, will:
 4. Return a **Markdown-formatted** list of curated movie picks.
 
 ---
+2. Install dependencies
+pip install -r requirements.txt
+
+Or manually:
+pip install streamlit agno
+
+3. Run the app
+streamlit run app.py
+
+4. Get your API key
+Sign up at Anthropic and grab your Claude API key. Paste it into the app's sidebar.
+
+Author
+Poornima Babu
+Frontend Developer | Exploring AI 🧠
+
 
